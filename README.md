@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Built an interactive Power BI dashboard using the Olist E-Commerce dataset to analyze sales performance, customer behavior, product trends, delivery efficiency, and customer satisfaction across approximately 99K orders and $15.8M in revenue.
+Built an interactive Power BI dashboard using the Olist E-Commerce dataset to analyze sales performance, customer behavior, product trends, delivery efficiency, and customer satisfaction across approximately 99K+ orders and $15.8M in revenue.
 
 The objective was to transform raw transactional data into actionable business insights that support strategic decision-making.
 
